@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nama Aplikasi -->
+    <string name="app_name">Profil Pribadi</string>
+
+    <!-- Label Tombol -->
+    <string name="app_title">Aplikasi Profil Pribadi</string>
+    <string name="btn_biodata">Lihat Biodata</string>
+    <string name="btn_pendidikan">Riwayat Pendidikan</string>
+    <string name="btn_aktivitas">Aktivitas Harian</string>
+    <string name="btn_kembali">Kembali</string>
+
+    <!-- ===== Judul Halaman ===== -->
+    <string name="judul_biodata">Biodata</string>
+    <string name="judul_pendidikan">Riwayat Pendidikan</string>
+    <string name="judul_aktivitas">Aktivitas Harian</string>
+
+    <!-- ===== BIODATA ===== -->
+    <string name="biodata_umiyati">
+        Nama: Umiyati\n
+        Tempat, Tanggal Lahir: Tanggerang, 12 Mei 2004\n
+        Jenis Kelamin: Perempuan\n
+        Alamat: Jl. Pasar Kemis No. 12, Tanggerang - Banten
+    </string>
+
+    <string name="biodata_aulani">
+        Nama: Muhammad Aulani\n
+        Tempat, Tanggal Lahir: Tangerang 5 Januari 2005\n
+        Jenis Kelamin: Laki-laki\n
+        Alamat: Jl. KP. Kulon Desa Lemo Kecamatan Teluknaga No. 88, Tangerang - Banten
+    </string>
+
+    <string name="biodata_siti">
+        Nama: Siti Khairunnisa Kamelia\n
+        Tempat, Tanggal Lahir: Surabaya, 20 Oktober 2001\n
+        Jenis Kelamin: Perempuan\n
+        Alamat: Jl. Ahmad Yani No. 20, Surabaya
+    </string>
+
+    <!-- ===== PENDIDIKAN ===== -->
+    <string name="pendidikan_umiyati">
+        SDN SUKA ASIH 2\n
+        SMP ISLAM IQRO\n
+        SMA AL-ISTIQOMAH\n
+        UNIVERSITAS YATSI MADANI
+    </string>
+
+    <string name="pendidikan_aulani">
+        SDN LEMO 3\n
+        MTS HIDAYATURROHMAN\n
+        SMA DARUL ABROR KEMIRI\n
+        UNIVERSITAS YATSI MADANI
+    </string>
+
+    <string name="pendidikan_siti">
+        SDN 2 Surabaya\n
+        SMPN 3 Surabaya\n
+        SMAN 1 Surabaya\n
+        UNIVERSITAS YATSI MADANI
+    </string>
+
+    <!-- ===== AKTIVITAS ===== -->
+    <string name="aktivitas_umiyati">
+        - Bangun pukul 05.30\n
+        - Olahraga pagi\n
+        - Kuliah dan belajar\n
+        - Membaca buku\n
+        - Tidur pukul 22.00
+    </string>
+
+    <string name="aktivitas_aulani">
+        - Bangun pukul 06.00\n
+        - Sarapan dan kuliah\n
+        - Bermain musik\n
+        - Menulis blog\n
+        - Tidur pukul 23.00
+    </string>
+
+    <string name="aktivitas_siti">
+        - Bangun pukul 05.00\n
+        - Membantu orang tua\n
+        - Kuliah online\n
+        - Menonton film\n
+        - Tidur pukul 21.30
+    </string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
